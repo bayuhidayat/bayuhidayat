@@ -1,2 +1,2 @@
 # Artikel
-Maju Terus
+Maju Terus Pantang Mundur
