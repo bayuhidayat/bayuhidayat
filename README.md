@@ -1,2 +1,12 @@
 # Artikel
-Maju Terus Pantang Mundur
+- http://edukasipranikah.emsacode.xyz/kehamilan.html
+- 
+-
+- 
+- 
+- 
+- 
+- 
+- 
+
+
