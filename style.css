@@ -1,7 +1,11 @@
 h1 {
     text-align: center;
 }
+<<<<<<< Updated upstream
 p, li, blockquote, th, td {
+=======
+p, li, blockquote, td ,tr ,table{
+>>>>>>> Stashed changes
     font-size: 16px;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: justify;
@@ -96,9 +100,18 @@ input[type='checkbox'] {
 /* Table */
 table {
     border-collapse: collapse;
+<<<<<<< Updated upstream
     border-spacing: 0;
     width: 100%;
     border: 1px solid #ddd;
+=======
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 16px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    min-width: 702px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+>>>>>>> Stashed changes
 }
   
 th, td {
