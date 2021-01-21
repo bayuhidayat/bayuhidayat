@@ -22,48 +22,75 @@
             </blockquote>
         </div>
         <h2>Kondisi penyakit yang harus di wasapadai</h2>
-            <ol>
-                <li>Anemia dan Kekurangan Gizi</li>
+            <ul>
+                <h3>Anemia dan Kekurangan Gizi</h3>
                     <p>Kurangnya konsumsi makanan bergizi seimbang dapat mengakibatkan Anemia (kadar hemoglobin/Hb <12 mg/dl) dan kurangnya gizi. Kondisi ini dapat mengakibatkan perdarahan, keguguran, BBLR, kelainan bawaan pada janin, dan stunting.</p>
 
-                <div style="margin: 15px;">
-                    <!--Gambar Artikel-->
-                    <img src="images/i1.jpg" alt="informasiseksual" class="image-center">
+                        <img src="images/i1.jpg" alt="informasiseksual" class="image-center">
 
-                 <li>HIV AIDS</li>
+                 <h3>HIV AIDS</h3>
                     <p>Virus HIV dapat menular melalui darah dan cairan tubuh, seperti cairna sperma, cairan vagina, dan air susu ibu (ASI). Pasangan dengan HIV dapat memiliki bayi yang sehat dengan mengikuti program Pencegahan Penularan HIV dari Ibu ke Anak (PPIA).</p>
 
-                <div style="margin: 15px;">
-                    <!--Gambar Artikel-->
-                    <img src="images/i2.jpg" alt="informasiseksual" class="image-center">
+                        <img src="images/i2.jpg" alt="informasiseksual" class="image-center">
 
-                <li>Infeksi Menular Seksual (IMS)</li>
-                    <p>Ditularkan melalui hubungan seksual, IMS dapat menyebabkan gangguan kesuburan, keguguran, dan kecacatan pada bayi.</p>
+                <h3>Infeksi Menular Seksual (IMS)</h3>
+                        <img src="images/i3.jpg" alt="informasiseksual" class="image-center">
+                    <ul>
+                        <h4>Pengertian Infeksi Menular Seksual</h4>
+                            <p>Infeksi menular seksual (IMS) adalah penyakit yang salah satu penularannya melalui hubungan seksual. Masyarakat seringg menyebutnya dengan nama penyakit kelamin. Jika melakkan hubungan seks berisiko, maka dapat terkena penyakit kelamin atau infeksi menular seksual ini.</p>
+                        <h4>Gejala Infeksi Menular Seksual</h4>
+                            <p>Adapun gejala dari penyakit IMS ini adalah:</p>
+                            <ol>
+                                <li>Keluar cairan dari vagina, penis, atau anus yang berbeda dari biasanya.</li>
+                                <li>Rasa perih, nyeri, atau panas pada saat kencing atau setelah kencing dan menjadi sering kencing.</li>
+                                <li>Ada luka terbuka/basah di sekitar kemaluan atau sekitar mulut. Luka ini dapat terasa nyeri atau tidak.</li>
+                                <li>Terjadi pembengkakan pada lipatan paha</li>
+                                <li>Pada pria, terdapat bengkak dan nyeri pada kantung zakar</li>
+                                <li>Sakit perut pada bagian bawah tetapi bukan karena menstruasi.</li>
+                                <li>Keluar darah setelah berhubungan seks</li>
+                                <li>Demam</li>
+                            </ol>
+                        <h4>Jenis Infeksi Saluran Seksual</h4>
+                            <ul>
+                                <li>GO dan klamidia yang berakibat pada kemandulan bagi penderitanya, jika tidak di obati dengan benar.</li>
+                                <li>Kondiloma akuminata (jengger ayam) dan herpes genitalis sangat menjengkelkan karena bersifat kambuhan seumur hidup.</li>
+                                <li>Hepatitis berbahaya jika sudah parah dan merusak hati</li>
+                                <li>Sifilis pada bayi yang dilahirkan dari wanita penderita sifilis seringkali cacat atau lahir dalam keadaan sudah mati.</li>
+                                <li>HIV merupakan virus yang pada tahap AIDS dapat mematikan.</li>
+                            </ul>
+                        <h4>Tindakan Jika Terinfeksi</h4>
+                            <p>Tindakan yang harus dilakukan saat mengalami tanda dan gejala diatas, yaitu:</p>
+                            <ul>
+                                <li>Jangan mengobati sendiri</li>
+                                <li>Segera memeriksakan diri dan pasangan ke dokter atau fasilitas kesehatan</li>
+                                <li>Minum obat sampai tuntas sesuai petunjuk dokter</li>
+                                <li>Tidak berhubungan seks terlebih dahulu</li>
+                            </ul>
+                        <h4>Cegah Penularan IMS dan HIV</h4>
+                            <ul>
+                                <li>Saling setia (tidak melakukan hubungan seks dengan orang lain)</li>
+                                <li>Menggunakan kondom (mencegah masuknya cairan kelamin yang terinfeksi virus)</li>
+                                <li>Hindari penggunaan narkoba suntik (menggunakan jarum bergantian berisiko menularkan HIV dalam jarum yang tercemar darah.</li>
+                                <li>Hindari penggunaan alat-alat yang steril seperti jarum, alat suntik, alat peluka kulit lainnya (tindik atau tato) secara bergantian. Penularan akan lebih mudah terjadi melalui darah.</li>
+                            </ul>
+                    </ul>
 
-                <div style="margin: 15px;">
-                    <!--Gambar Artikel-->
-                    <img src="images/i3.jpg" alt="informasiseksual" class="image-center">
-
-                <li>Hepatitis B</li>
+                <h3>Hepatitis B</h3>
                     <p>Penyakit yang menyerang organ hati dan disebabkan oleh virus Hepatitis B, yang ditularkan melalui darah dan cairan tubuh. Ibu hamil yang terinfeksi Hepatitis B berisiko menularkan kepada bayi yang dikandungnya.</p>
 
-                <div style="margin: 15px;">
-                    <!--Gambar Artikel-->
-                    <img src="images/i4.jpg" alt="informasiseksual" class="image-center">
+                        <img src="images/i4.jpg" alt="informasiseksual" class="image-center">
 
-                <li>Diabetes Melitus (DM)/Kencing Manis</li>
+                <h3>Diabetes Melitus (DM)/Kencing Manis</h3>
                     <p>Penyakit yang ditandai dengan peningkatan kadar gula dalam darah. Ibu hamil dengan DM berisiko mengalami hipertensi dalam kehamilan, mempunyai bayi lahir besar, bayi kuning, bayi lahir prematur dan bayi berisiko mengidap diabetes saat dewasa.</p>
 
-                <div style="margin: 15px;">
-                    <!--Gambar Artikel-->
-                    <img src="images/i5.jpg" alt="informasiseksual" class="image-center">
+                        <img src="images/i5.jpg" alt="informasiseksual" class="image-center">
 
-                <li>Malaria</li>
+                <h3>Malaria</h3>
                     <p>Disebabkan oleh parasite Plasmodium melalui gigitan nyamuk Anoples betina. Malaria dalam kehamilan dapat menyebabkan Anemia, keguguran, risiko perdarahan, bayi lahir premature dan BBLR.</p>
 
-                <li>Penyakit Genetik</li>
+                <h3>Penyakit Genetik</h3>
                     <p>Disebabkan oleh kelainan gen yang diturunkan. Jika salah satu atau kedua catin mengidap penyakit genetic (misalnya Talasemia, Hemofilia, dll), maka anak yang dilahirkan berisiko menderita penyakit tersebut.</p>
-            </ol>
+            </ul>
 </body>
 
 </html>
